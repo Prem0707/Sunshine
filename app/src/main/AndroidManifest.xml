@@ -37,6 +37,9 @@
                         android:value="com.example.android.sunshine.app.MainActivity" />
                 </activity>
 
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="c82ea17ae227fe1db39978f43dec84b6b0a93ea5" />
     </application>
 
 </manifest>
